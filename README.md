@@ -2,8 +2,8 @@
 Repo with Nodejs and Express
 # Choose the proper installer at the Node.js download page.
 Select the respective Node JS LTS support version and Install it
-# Navigate to myapp
-cd myapp
+# Navigate to client/server
+cd client / server
 # Install the Node packages
 npm install
 # Run the app in MAC
